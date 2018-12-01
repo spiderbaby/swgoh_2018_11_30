@@ -5,8 +5,8 @@ Thanks to:
 ----------
 
 * jeffnorth86, Mrtops, CrimsonBadger, and NaFakCha for noticing important clues;
-* newershadow piecing it all together;
-* and CG_SBCrumb for the mind-melting codes within codes.
+* newershadow piecing it all together; and
+* CG_SBCrumb for the mind-melting codes within codes.
 
 Why do a thing?
 ---------------
