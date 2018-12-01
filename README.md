@@ -1,5 +1,5 @@
 # swgoh_2018_11_30
-Decryption code for the puzzle released on 2018/11/30 on https://forums.galaxy-of-heroes.starwars.ea.com.
+Deciphering code for the puzzle released on 2018/11/30 on https://forums.galaxy-of-heroes.starwars.ea.com.
 
 Thanks to:
 ----------
