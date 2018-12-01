@@ -18,6 +18,6 @@ Besides, at the end of running this, you will end up with a neat little icon!
 Instructions
 ------------
 
-# Download the input file from https://goo.gl/4HXR42 as "madness.jpg"
-# Run this script in the same directory
-# Pick up your sweet-ass new icon ("answer.png")
+1. Download the input file from https://goo.gl/4HXR42 as "madness.jpg"
+1. Run this script in the same directory
+1. Pick up your sweet-ass new icon ("answer.png")
